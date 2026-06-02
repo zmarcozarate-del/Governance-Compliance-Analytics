@@ -1,0 +1,97 @@
+control_id,risk_id,control_name,control_owner_id,control_effectiveness,last_review_date,control_status
+C0001,R001,Network Segmentation Control,E0004,Partially Effective,2024-03-30,Active
+C0002,R001,Access Control Review,E0434,Partially Effective,2024-12-05,Active
+C0003,R002,Access Control Review,E0071,Ineffective,2021-03-06,Active
+C0004,R002,Sanctions Screening Tool,E0185,Partially Effective,2024-08-06,Overdue Review
+C0005,R002,Third-Party Audit Requirement,E0431,Partially Effective,2023-02-23,Under Review
+C0006,R003,Anti-Bribery Training Programme,E0083,Not Tested,2021-09-30,Overdue Review
+C0007,R003,Physical Access Control,E0357,Fully Effective,2022-01-01,Inactive
+C0008,R004,Backup and Recovery Procedure,E0131,Partially Effective,2021-01-08,Active
+C0009,R004,Change Management Process,E0475,Not Tested,2023-05-19,Inactive
+C0010,R005,Network Segmentation Control,E0236,Partially Effective,2023-08-02,Active
+C0011,R005,Vulnerability Scanning,E0283,Partially Effective,2021-08-20,Active
+C0012,R006,Sanctions Screening Tool,E0017,Partially Effective,2022-02-27,Active
+C0013,R006,Penetration Testing,E0035,Ineffective,2024-05-09,Overdue Review
+C0014,R006,Compliance Monitoring Dashboard,E0050,Partially Effective,2021-04-01,Under Review
+C0015,R007,Business Continuity Plan,E0553,Partially Effective,2021-04-26,Active
+C0016,R007,Backup and Recovery Procedure,E0297,Partially Effective,2024-03-25,Active
+C0017,R008,Audit Log Monitoring,E0329,Partially Effective,2022-09-11,Active
+C0018,R008,Policy Attestation Process,E0534,Partially Effective,2023-04-27,Active
+C0019,R008,User Awareness Training,E0063,Not Tested,2024-04-26,Overdue Review
+C0020,R009,Third-Party Audit Requirement,E0438,Not Tested,2023-10-13,Active
+C0021,R010,Third-Party Audit Requirement,E0391,Not Tested,2022-10-15,Overdue Review
+C0022,R010,Sanctions Screening Tool,E0419,Partially Effective,2022-09-07,Under Review
+C0023,R011,Exception Reporting Workflow,E0551,Ineffective,2022-05-09,Active
+C0024,R012,Physical Access Control,E0148,Ineffective,2021-04-29,Inactive
+C0025,R012,Sanctions Screening Tool,E0427,Not Tested,2023-12-22,Active
+C0026,R013,Business Continuity Plan,E0262,Partially Effective,2022-11-08,Overdue Review
+C0027,R013,Automated Reconciliation,E0461,Partially Effective,2021-07-09,Inactive
+C0028,R014,Network Segmentation Control,E0196,Fully Effective,2022-07-04,Under Review
+C0029,R014,Policy Attestation Process,E0041,Fully Effective,2022-01-21,Inactive
+C0030,R014,Risk Escalation Procedure,E0223,Ineffective,2022-03-04,Active
+C0031,R015,Anti-Money Laundering Screening,E0016,Partially Effective,2022-01-25,Overdue Review
+C0032,R015,Penetration Testing,E0491,Partially Effective,2024-11-25,Inactive
+C0033,R016,Vendor Risk Assessment,E0407,Partially Effective,2024-02-05,Active
+C0034,R016,Exception Reporting Workflow,E0290,Ineffective,2023-08-13,Inactive
+C0035,R016,Third-Party Audit Requirement,E0368,Partially Effective,2022-06-20,Active
+C0036,R017,Data Retention Policy,E0510,Ineffective,2021-07-21,Overdue Review
+C0037,R017,Quality Assurance Testing Protocol,E0328,Partially Effective,2023-01-30,Active
+C0038,R017,Sanctions Screening Tool,E0047,Not Tested,2022-03-30,Overdue Review
+C0039,R018,Segregation of Duties Policy,E0268,Not Tested,2024-04-11,Inactive
+C0040,R019,Sanctions Screening Tool,E0303,Partially Effective,2022-02-06,Active
+C0041,R019,Business Continuity Plan,E0389,Not Tested,2022-05-19,Under Review
+C0042,R019,Encryption at Rest and in Transit,E0346,Partially Effective,2023-09-28,Overdue Review
+C0043,R020,Risk Escalation Procedure,E0503,Ineffective,2021-12-11,Overdue Review
+C0044,R020,Password Management Policy,E0361,Partially Effective,2021-10-14,Overdue Review
+C0045,R020,Encryption at Rest and in Transit,E0501,Partially Effective,2024-01-16,Overdue Review
+C0046,R021,Backup and Recovery Procedure,E0035,Fully Effective,2024-09-30,Active
+C0047,R022,Sanctions Screening Tool,E0141,Partially Effective,2021-05-20,Overdue Review
+C0048,R023,Segregation of Duties Policy,E0224,Not Tested,2023-07-23,Active
+C0049,R024,Audit Log Monitoring,E0495,Ineffective,2021-02-02,Active
+C0050,R025,Encryption at Rest and in Transit,E0422,Fully Effective,2021-02-04,Inactive
+C0051,R025,Risk Escalation Procedure,E0282,Not Tested,2022-08-11,Active
+C0052,R025,Backup and Recovery Procedure,E0441,Partially Effective,2021-08-08,Active
+C0053,R026,Vulnerability Scanning,E0247,Partially Effective,2024-06-23,Inactive
+C0054,R026,User Awareness Training,E0363,Partially Effective,2023-03-24,Active
+C0055,R026,Whistleblower Hotline,E0416,Ineffective,2024-03-03,Active
+C0056,R027,Business Continuity Plan,E0308,Fully Effective,2024-08-31,Overdue Review
+C0057,R027,Exception Reporting Workflow,E0033,Fully Effective,2023-04-11,Under Review
+C0058,R027,Anti-Bribery Training Programme,E0488,Fully Effective,2024-07-28,Active
+C0059,R028,Data Loss Prevention Tool,E0085,Ineffective,2023-06-08,Overdue Review
+C0060,R028,Password Management Policy,E0340,Not Tested,2021-07-15,Inactive
+C0061,R028,Anti-Money Laundering Screening,E0044,Partially Effective,2022-03-09,Overdue Review
+C0062,R029,Quality Assurance Testing Protocol,E0278,Fully Effective,2021-06-02,Overdue Review
+C0063,R029,Anti-Money Laundering Screening,E0288,Not Tested,2024-02-29,Overdue Review
+C0064,R029,Access Control Review,E0184,Partially Effective,2021-02-02,Active
+C0065,R030,Vulnerability Scanning,E0408,Fully Effective,2022-09-05,Active
+C0066,R030,Multi-Factor Authentication,E0247,Not Tested,2023-03-08,Overdue Review
+C0067,R030,Data Retention Policy,E0554,Partially Effective,2023-02-26,Overdue Review
+C0068,R031,Password Management Policy,E0081,Not Tested,2022-12-10,Active
+C0069,R032,Sanctions Screening Tool,E0238,Fully Effective,2022-11-29,Inactive
+C0070,R033,Audit Log Monitoring,E0407,Partially Effective,2021-03-02,Overdue Review
+C0071,R033,User Awareness Training,E0462,Ineffective,2022-04-13,Active
+C0072,R033,Encryption at Rest and in Transit,E0385,Ineffective,2022-01-16,Overdue Review
+C0073,R034,Policy Attestation Process,E0390,Fully Effective,2024-06-20,Active
+C0074,R034,Password Management Policy,E0253,Fully Effective,2021-06-18,Active
+C0075,R034,Vulnerability Scanning,E0390,Partially Effective,2023-03-09,Active
+C0076,R035,Penetration Testing,E0094,Fully Effective,2022-09-24,Under Review
+C0077,R035,Whistleblower Hotline,E0277,Fully Effective,2021-09-29,Active
+C0078,R036,Sanctions Screening Tool,E0460,Not Tested,2024-02-11,Inactive
+C0079,R037,Penetration Testing,E0027,Fully Effective,2022-12-26,Inactive
+C0080,R037,Automated Reconciliation,E0333,Ineffective,2021-01-26,Active
+C0081,R038,Anti-Bribery Training Programme,E0087,Not Tested,2022-05-13,Inactive
+C0082,R038,Backup and Recovery Procedure,E0174,Ineffective,2021-12-14,Active
+C0083,R039,Change Management Process,E0275,Ineffective,2021-10-26,Active
+C0084,R039,Data Loss Prevention Tool,E0446,Partially Effective,2023-05-13,Active
+C0085,R040,Password Management Policy,E0079,Partially Effective,2022-05-31,Active
+C0086,R040,Risk Escalation Procedure,E0508,Not Tested,2024-06-16,Active
+C0087,R041,Penetration Testing,E0139,Partially Effective,2021-01-14,Under Review
+C0088,R041,Incident Response Procedure,E0390,Partially Effective,2023-06-21,Active
+C0089,R042,Network Segmentation Control,E0140,Partially Effective,2022-10-19,Inactive
+C0090,R042,Compliance Monitoring Dashboard,E0206,Ineffective,2022-10-06,Active
+C0091,R043,Incident Response Procedure,E0299,Ineffective,2024-03-25,Active
+C0092,R043,Incident Response Procedure,E0386,Partially Effective,2023-03-16,Active
+C0093,R044,Anti-Money Laundering Screening,E0205,Not Tested,2024-01-23,Active
+C0094,R045,Exception Reporting Workflow,E0028,Ineffective,2024-12-21,Active
+C0095,R045,Contract Review Checklist,E0299,Fully Effective,2023-04-18,Overdue Review
+C0096,R045,Quality Assurance Testing Protocol,E0143,Partially Effective,2022-05-11,Active

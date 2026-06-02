@@ -1,0 +1,401 @@
+audit_id,department_id,audit_type,findings_count,audit_result,audit_date
+AUD0001,D001,Compliance Review,2,Fail,2021-09-30
+AUD0002,D003,External Audit,0,Pass,2019-12-23
+AUD0003,D001,Internal Audit,7,Fail,2020-01-19
+AUD0004,D004,Fraud Investigation,0,Pass,2019-04-19
+AUD0005,D012,ISO 27001 Review,4,Fail,2023-09-15
+AUD0006,D008,SOX Audit,0,Pass,2022-02-13
+AUD0007,D003,Operational Audit,1,Adverse,2022-10-25
+AUD0008,D003,IT Audit,0,Pass,2022-10-10
+AUD0009,D002,Operational Audit,0,Pass,2020-02-01
+AUD0010,D006,SOX Audit,0,Pass,2021-12-19
+AUD0011,D012,Third-Party Audit,2,Adverse,2020-05-26
+AUD0012,D009,Compliance Review,2,Qualified Pass,2023-01-21
+AUD0013,D012,External Audit,4,Fail,2019-07-07
+AUD0014,D005,External Audit,4,Fail,2021-08-11
+AUD0015,D007,Compliance Review,4,Adverse,2024-02-01
+AUD0016,D006,Regulatory Inspection,14,Fail,2023-02-25
+AUD0017,D004,ISO 27001 Review,0,Pass,2021-12-29
+AUD0018,D011,ISO 27001 Review,15,Fail,2019-10-20
+AUD0019,D003,Fraud Investigation,11,Fail,2021-09-29
+AUD0020,D008,Operational Audit,0,Pass,2022-01-10
+AUD0021,D009,IT Audit,12,Fail,2022-08-21
+AUD0022,D001,IT Audit,25,Adverse,2019-05-12
+AUD0023,D007,Compliance Review,11,Adverse,2019-09-29
+AUD0024,D010,Financial Audit,0,Pass,2021-05-20
+AUD0025,D007,ISO 27001 Review,8,Fail,2024-02-23
+AUD0026,D005,Regulatory Inspection,0,Pass,2021-10-07
+AUD0027,D009,Compliance Review,9,Fail,2023-10-21
+AUD0028,D006,IT Audit,7,Fail,2020-07-20
+AUD0029,D002,Internal Audit,8,Fail,2020-03-25
+AUD0030,D011,Regulatory Inspection,0,Pass,2023-09-26
+AUD0031,D007,Operational Audit,2,Fail,2024-04-01
+AUD0032,D009,Internal Audit,5,Fail,2020-04-14
+AUD0033,D009,Compliance Review,15,Fail,2022-10-25
+AUD0034,D005,Operational Audit,0,Pass,2020-10-09
+AUD0035,D012,Compliance Review,1,Qualified Pass,2024-08-12
+AUD0036,D009,External Audit,6,Adverse,2022-05-07
+AUD0037,D009,SOX Audit,21,Adverse,2021-03-25
+AUD0038,D006,Regulatory Inspection,0,Pass,2024-12-12
+AUD0039,D010,Financial Audit,0,Pass,2024-06-24
+AUD0040,D002,Financial Audit,0,Pass,2022-06-13
+AUD0041,D001,IT Audit,0,Pass,2019-11-19
+AUD0042,D012,Third-Party Audit,0,Pass,2019-10-11
+AUD0043,D003,Regulatory Inspection,18,Adverse,2024-04-30
+AUD0044,D005,Fraud Investigation,3,Fail,2023-09-30
+AUD0045,D009,IT Audit,0,Pass,2022-06-30
+AUD0046,D011,Financial Audit,11,Qualified Pass,2023-11-30
+AUD0047,D002,IT Audit,8,Fail,2021-07-09
+AUD0048,D006,Internal Audit,0,Pass,2021-07-31
+AUD0049,D001,External Audit,4,Fail,2019-08-30
+AUD0050,D002,Internal Audit,0,Pass,2022-09-15
+AUD0051,D009,IT Audit,0,Pass,2022-02-14
+AUD0052,D004,Fraud Investigation,8,Fail,2020-06-25
+AUD0053,D010,SOX Audit,15,Fail,2024-04-20
+AUD0054,D008,Operational Audit,0,Pass,2021-02-18
+AUD0055,D002,ISO 27001 Review,0,Pass,2023-11-01
+AUD0056,D007,Operational Audit,0,Pass,2024-03-27
+AUD0057,D001,ISO 27001 Review,24,Adverse,2020-02-08
+AUD0058,D007,Financial Audit,0,Pass,2020-03-23
+AUD0059,D004,IT Audit,0,Pass,2024-01-12
+AUD0060,D007,Regulatory Inspection,0,Pass,2022-02-14
+AUD0061,D002,Third-Party Audit,4,Qualified Pass,2020-02-06
+AUD0062,D011,Fraud Investigation,0,Pass,2019-03-02
+AUD0063,D004,Regulatory Inspection,0,Pass,2023-07-23
+AUD0064,D004,Operational Audit,8,Qualified Pass,2019-08-29
+AUD0065,D007,Internal Audit,0,Pass,2023-05-19
+AUD0066,D008,Compliance Review,0,Pass,2023-09-29
+AUD0067,D009,ISO 27001 Review,12,Fail,2024-06-16
+AUD0068,D004,Compliance Review,0,Pass,2021-06-10
+AUD0069,D010,Fraud Investigation,0,Pass,2019-09-07
+AUD0070,D001,Internal Audit,6,Fail,2024-05-06
+AUD0071,D009,Regulatory Inspection,15,Fail,2019-08-21
+AUD0072,D003,External Audit,2,Fail,2019-10-06
+AUD0073,D004,Operational Audit,14,Fail,2020-05-06
+AUD0074,D010,SOX Audit,4,Fail,2019-06-12
+AUD0075,D007,ISO 27001 Review,2,Fail,2024-11-11
+AUD0076,D005,IT Audit,0,Pass,2022-07-10
+AUD0077,D005,Operational Audit,0,Pass,2020-06-20
+AUD0078,D005,Third-Party Audit,11,Fail,2022-07-19
+AUD0079,D001,Third-Party Audit,3,Adverse,2020-02-14
+AUD0080,D009,IT Audit,0,Pass,2024-09-03
+AUD0081,D003,Financial Audit,0,Pass,2019-10-09
+AUD0082,D006,Compliance Review,0,Pass,2020-10-08
+AUD0083,D009,Compliance Review,14,Qualified Pass,2024-12-06
+AUD0084,D011,Fraud Investigation,0,Pass,2022-05-11
+AUD0085,D003,Compliance Review,2,Fail,2020-04-17
+AUD0086,D012,Fraud Investigation,0,Pass,2020-09-28
+AUD0087,D005,SOX Audit,0,Pass,2021-05-12
+AUD0088,D004,ISO 27001 Review,6,Fail,2021-12-17
+AUD0089,D005,Internal Audit,8,Fail,2020-01-14
+AUD0090,D005,Internal Audit,7,Fail,2019-01-15
+AUD0091,D003,ISO 27001 Review,0,Pass,2021-12-08
+AUD0092,D012,Third-Party Audit,0,Pass,2023-10-18
+AUD0093,D002,External Audit,1,Fail,2020-09-02
+AUD0094,D006,SOX Audit,1,Fail,2020-08-29
+AUD0095,D001,Compliance Review,3,Qualified Pass,2023-02-02
+AUD0096,D006,IT Audit,2,Adverse,2021-10-19
+AUD0097,D006,Fraud Investigation,2,Fail,2023-07-23
+AUD0098,D003,IT Audit,12,Fail,2020-10-27
+AUD0099,D007,Internal Audit,6,Adverse,2021-01-04
+AUD0100,D006,Operational Audit,15,Fail,2021-10-13
+AUD0101,D003,External Audit,0,Pass,2023-04-16
+AUD0102,D008,IT Audit,2,Adverse,2021-03-28
+AUD0103,D006,Compliance Review,15,Adverse,2021-07-21
+AUD0104,D001,ISO 27001 Review,0,Pass,2021-03-02
+AUD0105,D005,External Audit,6,Qualified Pass,2022-02-17
+AUD0106,D011,Fraud Investigation,0,Pass,2023-06-26
+AUD0107,D009,Financial Audit,14,Fail,2019-04-24
+AUD0108,D005,Regulatory Inspection,0,Pass,2021-12-23
+AUD0109,D002,SOX Audit,0,Pass,2023-11-15
+AUD0110,D012,Financial Audit,0,Pass,2023-11-23
+AUD0111,D002,Operational Audit,9,Fail,2021-02-17
+AUD0112,D001,Operational Audit,0,Pass,2019-01-07
+AUD0113,D009,ISO 27001 Review,15,Fail,2021-03-18
+AUD0114,D007,External Audit,0,Pass,2022-09-14
+AUD0115,D011,External Audit,6,Fail,2022-05-15
+AUD0116,D011,Operational Audit,5,Fail,2022-08-29
+AUD0117,D005,Fraud Investigation,12,Qualified Pass,2020-06-05
+AUD0118,D007,ISO 27001 Review,0,Pass,2023-04-02
+AUD0119,D003,SOX Audit,12,Fail,2022-05-17
+AUD0120,D001,Compliance Review,9,Qualified Pass,2022-03-21
+AUD0121,D007,SOX Audit,0,Pass,2022-08-12
+AUD0122,D008,ISO 27001 Review,8,Qualified Pass,2021-05-25
+AUD0123,D012,Regulatory Inspection,8,Fail,2019-12-14
+AUD0124,D009,ISO 27001 Review,0,Pass,2022-10-04
+AUD0125,D004,ISO 27001 Review,0,Pass,2022-06-25
+AUD0126,D004,Regulatory Inspection,0,Pass,2019-04-11
+AUD0127,D004,Third-Party Audit,0,Pass,2019-10-26
+AUD0128,D011,SOX Audit,7,Qualified Pass,2021-03-07
+AUD0129,D007,Third-Party Audit,12,Fail,2023-06-25
+AUD0130,D003,ISO 27001 Review,0,Pass,2019-01-23
+AUD0131,D002,Operational Audit,25,Adverse,2021-06-15
+AUD0132,D012,Fraud Investigation,0,Pass,2024-03-17
+AUD0133,D009,IT Audit,0,Pass,2020-05-12
+AUD0134,D008,ISO 27001 Review,3,Qualified Pass,2024-12-15
+AUD0135,D006,Third-Party Audit,10,Fail,2024-08-29
+AUD0136,D009,Third-Party Audit,14,Qualified Pass,2020-10-13
+AUD0137,D008,Third-Party Audit,14,Fail,2021-11-27
+AUD0138,D011,Compliance Review,8,Adverse,2024-11-05
+AUD0139,D004,Compliance Review,11,Qualified Pass,2023-12-07
+AUD0140,D012,Compliance Review,0,Pass,2021-08-18
+AUD0141,D006,Financial Audit,0,Pass,2019-11-27
+AUD0142,D003,IT Audit,0,Pass,2023-04-18
+AUD0143,D012,IT Audit,3,Fail,2019-09-21
+AUD0144,D006,Fraud Investigation,7,Qualified Pass,2024-03-23
+AUD0145,D004,Operational Audit,1,Qualified Pass,2023-05-15
+AUD0146,D012,Internal Audit,19,Adverse,2023-04-08
+AUD0147,D006,Compliance Review,1,Qualified Pass,2023-05-17
+AUD0148,D009,Fraud Investigation,14,Adverse,2021-06-22
+AUD0149,D005,Operational Audit,4,Qualified Pass,2024-06-12
+AUD0150,D007,Financial Audit,0,Pass,2023-07-15
+AUD0151,D008,Regulatory Inspection,3,Fail,2024-12-27
+AUD0152,D007,SOX Audit,0,Pass,2019-04-22
+AUD0153,D011,Operational Audit,0,Pass,2020-07-09
+AUD0154,D003,Internal Audit,15,Adverse,2021-12-01
+AUD0155,D004,Third-Party Audit,6,Qualified Pass,2022-08-31
+AUD0156,D007,Compliance Review,0,Pass,2023-09-23
+AUD0157,D002,Third-Party Audit,0,Pass,2019-03-21
+AUD0158,D001,Financial Audit,9,Fail,2021-07-07
+AUD0159,D011,Internal Audit,2,Fail,2019-05-08
+AUD0160,D004,Internal Audit,0,Pass,2020-09-16
+AUD0161,D003,Third-Party Audit,0,Pass,2020-04-13
+AUD0162,D008,Compliance Review,4,Fail,2023-02-19
+AUD0163,D010,SOX Audit,0,Pass,2020-04-14
+AUD0164,D005,External Audit,6,Adverse,2019-04-16
+AUD0165,D010,ISO 27001 Review,0,Pass,2023-03-18
+AUD0166,D004,External Audit,12,Qualified Pass,2021-09-21
+AUD0167,D012,Compliance Review,0,Pass,2020-05-10
+AUD0168,D001,Financial Audit,19,Adverse,2024-12-22
+AUD0169,D006,External Audit,11,Qualified Pass,2024-09-03
+AUD0170,D001,Operational Audit,6,Fail,2024-06-30
+AUD0171,D007,Financial Audit,0,Pass,2024-02-27
+AUD0172,D007,Regulatory Inspection,3,Fail,2024-11-07
+AUD0173,D010,Fraud Investigation,5,Fail,2024-06-03
+AUD0174,D012,SOX Audit,7,Qualified Pass,2022-01-04
+AUD0175,D004,External Audit,0,Pass,2022-02-16
+AUD0176,D008,SOX Audit,4,Qualified Pass,2023-04-02
+AUD0177,D001,Third-Party Audit,0,Pass,2022-08-24
+AUD0178,D008,IT Audit,0,Pass,2022-12-24
+AUD0179,D006,Compliance Review,9,Adverse,2022-02-05
+AUD0180,D009,IT Audit,1,Fail,2019-12-17
+AUD0181,D012,Operational Audit,0,Pass,2024-06-24
+AUD0182,D004,Third-Party Audit,13,Fail,2024-07-03
+AUD0183,D001,External Audit,13,Qualified Pass,2022-04-20
+AUD0184,D007,IT Audit,0,Pass,2022-06-08
+AUD0185,D006,Third-Party Audit,10,Fail,2024-12-14
+AUD0186,D007,Fraud Investigation,0,Pass,2022-09-16
+AUD0187,D012,Third-Party Audit,0,Pass,2022-01-14
+AUD0188,D005,IT Audit,0,Pass,2020-05-09
+AUD0189,D006,External Audit,4,Fail,2021-01-28
+AUD0190,D004,Third-Party Audit,0,Pass,2022-02-06
+AUD0191,D009,SOX Audit,10,Fail,2022-03-05
+AUD0192,D004,Compliance Review,0,Pass,2021-07-20
+AUD0193,D003,Compliance Review,0,Pass,2019-02-27
+AUD0194,D003,Compliance Review,9,Fail,2019-07-06
+AUD0195,D009,Compliance Review,0,Pass,2020-06-01
+AUD0196,D008,External Audit,14,Fail,2019-02-20
+AUD0197,D008,Third-Party Audit,5,Fail,2023-12-10
+AUD0198,D003,Internal Audit,0,Pass,2021-10-31
+AUD0199,D002,External Audit,16,Adverse,2023-06-30
+AUD0200,D010,ISO 27001 Review,2,Qualified Pass,2019-08-08
+AUD0201,D003,SOX Audit,0,Pass,2022-05-29
+AUD0202,D004,External Audit,0,Pass,2023-09-01
+AUD0203,D010,IT Audit,10,Fail,2024-11-10
+AUD0204,D008,Compliance Review,8,Qualified Pass,2023-10-23
+AUD0205,D010,SOX Audit,0,Pass,2019-09-04
+AUD0206,D002,IT Audit,12,Fail,2021-05-14
+AUD0207,D011,External Audit,0,Pass,2020-10-05
+AUD0208,D003,Fraud Investigation,0,Pass,2019-11-04
+AUD0209,D001,Operational Audit,0,Pass,2024-01-20
+AUD0210,D008,Compliance Review,10,Fail,2019-05-14
+AUD0211,D005,Compliance Review,0,Pass,2024-02-03
+AUD0212,D011,IT Audit,0,Pass,2021-12-19
+AUD0213,D010,ISO 27001 Review,21,Adverse,2021-03-21
+AUD0214,D009,IT Audit,2,Qualified Pass,2020-09-02
+AUD0215,D003,External Audit,0,Pass,2019-09-02
+AUD0216,D005,SOX Audit,0,Pass,2022-03-28
+AUD0217,D008,Compliance Review,2,Qualified Pass,2023-07-07
+AUD0218,D009,Fraud Investigation,0,Pass,2024-07-15
+AUD0219,D010,Internal Audit,2,Qualified Pass,2023-11-05
+AUD0220,D010,Compliance Review,6,Fail,2019-04-16
+AUD0221,D004,ISO 27001 Review,0,Pass,2019-03-26
+AUD0222,D005,SOX Audit,22,Adverse,2019-06-14
+AUD0223,D003,Third-Party Audit,25,Adverse,2024-10-26
+AUD0224,D005,Regulatory Inspection,8,Fail,2023-11-21
+AUD0225,D008,External Audit,14,Fail,2024-04-09
+AUD0226,D007,Financial Audit,0,Pass,2022-08-08
+AUD0227,D003,Financial Audit,2,Fail,2023-08-14
+AUD0228,D005,ISO 27001 Review,8,Fail,2023-06-29
+AUD0229,D009,Internal Audit,25,Adverse,2024-02-06
+AUD0230,D006,Compliance Review,0,Pass,2022-08-17
+AUD0231,D007,Fraud Investigation,0,Pass,2019-01-05
+AUD0232,D009,Third-Party Audit,14,Fail,2023-08-20
+AUD0233,D004,Fraud Investigation,0,Pass,2023-01-21
+AUD0234,D008,ISO 27001 Review,13,Fail,2023-12-16
+AUD0235,D004,Compliance Review,2,Adverse,2020-06-20
+AUD0236,D008,Third-Party Audit,0,Pass,2020-05-12
+AUD0237,D011,SOX Audit,0,Pass,2021-09-07
+AUD0238,D005,Fraud Investigation,3,Fail,2019-02-26
+AUD0239,D002,IT Audit,7,Fail,2020-04-09
+AUD0240,D011,Regulatory Inspection,2,Qualified Pass,2024-08-03
+AUD0241,D009,Compliance Review,5,Fail,2023-08-29
+AUD0242,D008,IT Audit,16,Adverse,2024-02-14
+AUD0243,D007,IT Audit,3,Fail,2024-09-12
+AUD0244,D003,External Audit,15,Fail,2022-02-05
+AUD0245,D006,Fraud Investigation,14,Adverse,2021-12-30
+AUD0246,D005,Compliance Review,1,Adverse,2024-06-28
+AUD0247,D008,Fraud Investigation,5,Adverse,2024-06-06
+AUD0248,D006,Fraud Investigation,0,Pass,2023-03-26
+AUD0249,D006,IT Audit,15,Qualified Pass,2021-09-05
+AUD0250,D004,Operational Audit,7,Fail,2019-06-28
+AUD0251,D012,Third-Party Audit,0,Pass,2023-04-11
+AUD0252,D011,Regulatory Inspection,11,Qualified Pass,2024-07-21
+AUD0253,D003,Fraud Investigation,0,Pass,2022-09-21
+AUD0254,D008,External Audit,4,Adverse,2024-11-24
+AUD0255,D012,Regulatory Inspection,1,Qualified Pass,2023-08-07
+AUD0256,D003,External Audit,21,Adverse,2024-04-07
+AUD0257,D006,SOX Audit,9,Adverse,2023-06-17
+AUD0258,D006,ISO 27001 Review,2,Fail,2024-12-25
+AUD0259,D011,Third-Party Audit,6,Qualified Pass,2019-05-28
+AUD0260,D004,ISO 27001 Review,2,Fail,2022-03-23
+AUD0261,D012,External Audit,0,Pass,2023-11-13
+AUD0262,D011,External Audit,0,Pass,2023-12-23
+AUD0263,D012,Compliance Review,0,Pass,2019-04-29
+AUD0264,D006,Internal Audit,0,Pass,2022-04-16
+AUD0265,D006,Operational Audit,0,Pass,2020-08-19
+AUD0266,D009,Operational Audit,0,Pass,2021-01-07
+AUD0267,D003,External Audit,0,Pass,2023-04-16
+AUD0268,D004,Third-Party Audit,11,Fail,2020-08-09
+AUD0269,D008,ISO 27001 Review,0,Pass,2021-11-06
+AUD0270,D011,Internal Audit,5,Qualified Pass,2024-03-20
+AUD0271,D011,Fraud Investigation,0,Pass,2020-10-09
+AUD0272,D008,Financial Audit,0,Pass,2022-05-10
+AUD0273,D012,Compliance Review,7,Fail,2024-02-15
+AUD0274,D004,Operational Audit,10,Adverse,2024-06-02
+AUD0275,D004,Operational Audit,0,Pass,2023-01-10
+AUD0276,D012,Compliance Review,5,Fail,2019-03-31
+AUD0277,D007,Compliance Review,22,Adverse,2019-02-03
+AUD0278,D011,Internal Audit,14,Fail,2024-07-27
+AUD0279,D004,SOX Audit,10,Adverse,2022-12-14
+AUD0280,D011,IT Audit,0,Pass,2021-10-23
+AUD0281,D012,ISO 27001 Review,13,Fail,2020-07-14
+AUD0282,D011,ISO 27001 Review,2,Fail,2019-06-11
+AUD0283,D008,Internal Audit,0,Pass,2023-02-03
+AUD0284,D002,Compliance Review,3,Fail,2022-08-31
+AUD0285,D003,IT Audit,7,Fail,2020-06-25
+AUD0286,D006,Fraud Investigation,18,Adverse,2024-08-17
+AUD0287,D003,Compliance Review,0,Pass,2024-05-27
+AUD0288,D012,Financial Audit,10,Adverse,2020-04-16
+AUD0289,D003,IT Audit,2,Qualified Pass,2023-06-16
+AUD0290,D006,External Audit,18,Adverse,2023-06-05
+AUD0291,D005,Fraud Investigation,0,Pass,2020-05-21
+AUD0292,D011,ISO 27001 Review,6,Qualified Pass,2021-12-09
+AUD0293,D011,Financial Audit,7,Fail,2020-03-19
+AUD0294,D008,Internal Audit,4,Fail,2022-09-05
+AUD0295,D011,External Audit,4,Fail,2024-03-16
+AUD0296,D011,Operational Audit,5,Fail,2020-04-22
+AUD0297,D001,Internal Audit,0,Pass,2022-05-31
+AUD0298,D002,IT Audit,2,Qualified Pass,2020-07-09
+AUD0299,D006,ISO 27001 Review,8,Qualified Pass,2023-09-13
+AUD0300,D012,Regulatory Inspection,12,Fail,2023-08-27
+AUD0301,D008,SOX Audit,2,Fail,2023-07-30
+AUD0302,D001,Financial Audit,0,Pass,2021-06-08
+AUD0303,D004,Financial Audit,8,Qualified Pass,2020-02-11
+AUD0304,D009,ISO 27001 Review,6,Fail,2023-01-09
+AUD0305,D007,Compliance Review,0,Pass,2021-02-16
+AUD0306,D008,External Audit,0,Pass,2021-05-18
+AUD0307,D010,Internal Audit,11,Fail,2019-07-27
+AUD0308,D004,Regulatory Inspection,11,Adverse,2021-04-20
+AUD0309,D009,IT Audit,0,Pass,2021-06-03
+AUD0310,D006,Regulatory Inspection,8,Adverse,2019-01-12
+AUD0311,D003,Regulatory Inspection,0,Pass,2021-10-23
+AUD0312,D002,ISO 27001 Review,6,Adverse,2019-04-16
+AUD0313,D001,Financial Audit,0,Pass,2021-09-01
+AUD0314,D001,Regulatory Inspection,6,Fail,2021-12-22
+AUD0315,D003,Operational Audit,0,Pass,2024-11-24
+AUD0316,D012,External Audit,0,Pass,2024-05-04
+AUD0317,D006,Fraud Investigation,13,Qualified Pass,2020-03-22
+AUD0318,D004,SOX Audit,9,Qualified Pass,2019-06-27
+AUD0319,D011,Fraud Investigation,13,Fail,2022-05-20
+AUD0320,D001,Internal Audit,11,Qualified Pass,2024-05-15
+AUD0321,D007,ISO 27001 Review,13,Adverse,2020-03-18
+AUD0322,D008,External Audit,12,Qualified Pass,2019-11-27
+AUD0323,D010,Regulatory Inspection,0,Pass,2019-09-27
+AUD0324,D005,SOX Audit,0,Pass,2022-08-24
+AUD0325,D009,Compliance Review,10,Qualified Pass,2024-02-02
+AUD0326,D007,External Audit,10,Fail,2020-04-13
+AUD0327,D011,Fraud Investigation,21,Adverse,2021-05-30
+AUD0328,D004,Operational Audit,8,Qualified Pass,2022-10-20
+AUD0329,D007,Operational Audit,15,Adverse,2020-01-25
+AUD0330,D007,Financial Audit,0,Pass,2021-11-10
+AUD0331,D003,ISO 27001 Review,0,Pass,2024-04-26
+AUD0332,D002,External Audit,0,Pass,2020-01-17
+AUD0333,D012,Financial Audit,2,Qualified Pass,2020-06-16
+AUD0334,D010,Fraud Investigation,1,Fail,2022-09-12
+AUD0335,D007,Financial Audit,2,Fail,2023-09-29
+AUD0336,D001,Compliance Review,24,Adverse,2022-07-03
+AUD0337,D002,SOX Audit,0,Pass,2024-09-09
+AUD0338,D003,ISO 27001 Review,0,Pass,2024-05-29
+AUD0339,D002,Financial Audit,0,Pass,2023-02-14
+AUD0340,D005,SOX Audit,0,Pass,2021-07-15
+AUD0341,D009,SOX Audit,14,Adverse,2019-04-18
+AUD0342,D011,Compliance Review,15,Fail,2019-04-29
+AUD0343,D005,Compliance Review,0,Pass,2022-10-23
+AUD0344,D001,Regulatory Inspection,0,Pass,2020-08-09
+AUD0345,D007,External Audit,11,Fail,2020-08-04
+AUD0346,D001,External Audit,11,Fail,2024-12-12
+AUD0347,D007,Operational Audit,0,Pass,2024-02-02
+AUD0348,D003,Financial Audit,0,Pass,2022-06-30
+AUD0349,D010,SOX Audit,6,Fail,2019-12-14
+AUD0350,D003,Regulatory Inspection,0,Pass,2019-07-23
+AUD0351,D005,Third-Party Audit,2,Fail,2023-10-03
+AUD0352,D008,Operational Audit,10,Qualified Pass,2022-01-23
+AUD0353,D009,External Audit,0,Pass,2022-11-14
+AUD0354,D005,ISO 27001 Review,2,Qualified Pass,2024-06-16
+AUD0355,D005,Internal Audit,11,Fail,2021-06-22
+AUD0356,D001,Internal Audit,10,Qualified Pass,2021-04-17
+AUD0357,D004,Regulatory Inspection,0,Pass,2021-11-12
+AUD0358,D006,External Audit,0,Pass,2019-02-01
+AUD0359,D007,Regulatory Inspection,12,Qualified Pass,2020-06-13
+AUD0360,D012,IT Audit,9,Qualified Pass,2024-08-11
+AUD0361,D011,Financial Audit,14,Fail,2019-10-23
+AUD0362,D012,Internal Audit,14,Qualified Pass,2023-11-22
+AUD0363,D008,External Audit,0,Pass,2022-07-06
+AUD0364,D010,Operational Audit,7,Fail,2023-09-07
+AUD0365,D002,Operational Audit,0,Pass,2019-03-27
+AUD0366,D003,SOX Audit,0,Pass,2024-02-28
+AUD0367,D006,External Audit,23,Adverse,2023-11-24
+AUD0368,D004,Operational Audit,4,Adverse,2023-06-29
+AUD0369,D007,Compliance Review,2,Fail,2022-10-22
+AUD0370,D006,Regulatory Inspection,0,Pass,2019-11-09
+AUD0371,D002,Fraud Investigation,11,Fail,2024-09-19
+AUD0372,D006,Financial Audit,0,Pass,2020-08-27
+AUD0373,D002,Regulatory Inspection,0,Pass,2021-11-14
+AUD0374,D003,SOX Audit,0,Pass,2020-09-18
+AUD0375,D011,External Audit,25,Adverse,2020-12-26
+AUD0376,D008,Third-Party Audit,21,Adverse,2024-01-13
+AUD0377,D010,ISO 27001 Review,15,Fail,2022-08-16
+AUD0378,D006,Regulatory Inspection,21,Adverse,2023-12-07
+AUD0379,D008,Third-Party Audit,0,Pass,2022-05-25
+AUD0380,D010,Internal Audit,9,Adverse,2022-12-12
+AUD0381,D005,Third-Party Audit,2,Fail,2024-01-26
+AUD0382,D001,Financial Audit,0,Pass,2022-03-21
+AUD0383,D011,External Audit,0,Pass,2024-09-07
+AUD0384,D010,Fraud Investigation,8,Qualified Pass,2019-06-18
+AUD0385,D010,ISO 27001 Review,15,Qualified Pass,2021-02-10
+AUD0386,D010,Third-Party Audit,0,Pass,2024-08-15
+AUD0387,D001,Third-Party Audit,0,Pass,2020-02-28
+AUD0388,D012,External Audit,11,Adverse,2024-08-28
+AUD0389,D001,IT Audit,3,Fail,2023-11-29
+AUD0390,D009,SOX Audit,9,Qualified Pass,2020-10-12
+AUD0391,D006,Compliance Review,0,Pass,2023-05-06
+AUD0392,D006,ISO 27001 Review,13,Qualified Pass,2019-08-03
+AUD0393,D011,Financial Audit,21,Adverse,2019-09-27
+AUD0394,D002,Fraud Investigation,0,Pass,2023-05-03
+AUD0395,D005,ISO 27001 Review,0,Pass,2020-09-07
+AUD0396,D002,SOX Audit,0,Pass,2020-08-02
+AUD0397,D005,ISO 27001 Review,0,Pass,2023-05-25
+AUD0398,D010,External Audit,0,Pass,2022-06-22
+AUD0399,D011,Financial Audit,7,Fail,2020-06-07
+AUD0400,D012,ISO 27001 Review,12,Fail,2024-11-26

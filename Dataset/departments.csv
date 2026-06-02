@@ -1,0 +1,13 @@
+department_id,department_name,manager_name,risk_level
+D001,Finance,Margaret Chen,High
+D002,Information Technology,Raj Patel,Critical
+D003,Human Resources,Sofia Morales,Medium
+D004,Legal and Compliance,David Okafor,High
+D005,Operations,Yuki Tanaka,High
+D006,Sales and Marketing,Emma Whitfield,Medium
+D007,Supply Chain,Carlos Mendez,High
+D008,Internal Audit,Priya Sharma,Low
+D009,Risk Management,James Oduya,Medium
+D010,Procurement,Fatima Al-Hassan,High
+D011,Customer Service,Lena Brandt,Low
+D012,Corporate Strategy,Thomas Nguyen,Medium

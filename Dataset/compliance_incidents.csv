@@ -1,0 +1,601 @@
+incident_id,department_id,incident_type,severity,incident_date,status,resolution_time_days
+INC0001,D011,SLA Breach,Critical,2022-01-31,Open,
+INC0002,D004,Sanctions Breach,Critical,2020-02-24,Open,
+INC0003,D011,Refund Fraud,Low,2023-09-25,Escalated,
+INC0004,D001,Financial Misstatement,Low,2021-08-10,Open,
+INC0005,D009,Risk Framework Violation,Low,2023-09-15,Closed,4
+INC0006,D004,Regulatory Non-Compliance,Low,2020-10-15,Resolved,76
+INC0007,D012,Board Reporting Failure,Low,2021-05-31,Resolved,44
+INC0008,D006,Misleading Advertising,Medium,2020-02-01,Open,
+INC0009,D006,Competitor Defamation,Medium,2019-06-27,Under Investigation,
+INC0010,D012,Strategic Misrepresentation,Medium,2019-11-19,Resolved,69
+INC0011,D009,Risk Framework Violation,Medium,2021-02-26,Under Investigation,
+INC0012,D012,Strategic Misrepresentation,Critical,2021-07-22,Open,
+INC0013,D005,Quality Failure,Low,2023-04-06,Open,
+INC0014,D005,Process Non-Compliance,Low,2023-02-25,Resolved,82
+INC0015,D006,Data Privacy Breach,Critical,2019-10-20,Open,
+INC0016,D010,Conflict of Interest,High,2021-09-29,Escalated,
+INC0017,D003,Unauthorised Data Disclosure,Critical,2021-06-18,Resolved,49
+INC0018,D011,SLA Breach,Low,2019-05-12,Under Investigation,
+INC0019,D006,Misleading Advertising,Low,2022-07-12,Resolved,35
+INC0020,D004,Conflict of Interest,Medium,2024-02-23,Escalated,
+INC0021,D003,GDPR Breach,Low,2021-12-12,Under Investigation,
+INC0022,D012,Disclosure Violation,Medium,2023-01-22,Closed,55
+INC0023,D004,Legal Hold Violation,Medium,2020-01-08,Open,
+INC0024,D001,Expense Fraud,Critical,2020-10-17,Open,
+INC0025,D011,SLA Breach,Medium,2023-04-13,Resolved,77
+INC0026,D010,Unauthorised Procurement,High,2019-02-17,Resolved,68
+INC0027,D011,SLA Breach,Critical,2021-12-28,Escalated,
+INC0028,D011,SLA Breach,Medium,2023-11-16,Under Investigation,
+INC0029,D003,Unauthorised Data Disclosure,High,2021-01-01,Resolved,1
+INC0030,D009,Risk Limit Breach,Critical,2024-09-10,Open,
+INC0031,D010,Conflict of Interest,Medium,2020-10-23,Open,
+INC0032,D009,Risk Reporting Error,High,2022-08-20,Closed,118
+INC0033,D008,Audit Obstruction,Medium,2022-06-13,Open,
+INC0034,D004,Sanctions Breach,High,2019-11-19,Open,
+INC0035,D002,Unauthorised Access,Low,2024-12-21,Escalated,
+INC0036,D003,Workplace Misconduct,High,2020-11-07,Open,
+INC0037,D005,Near Miss Event,Medium,2021-05-17,Closed,112
+INC0038,D009,Unregistered Risk,Critical,2022-06-30,Escalated,
+INC0039,D007,ESG Breach,Medium,2024-10-20,Escalated,
+INC0040,D008,Evidence Tampering,Low,2019-09-20,Open,
+INC0041,D006,Competitor Defamation,High,2021-07-31,Open,
+INC0042,D010,Procurement Fraud,Low,2019-08-30,Open,
+INC0043,D004,Bribery Allegation,Medium,2019-10-18,Open,
+INC0044,D009,Risk Limit Breach,Critical,2024-06-11,Open,
+INC0045,D004,Legal Hold Violation,High,2024-04-20,Closed,17
+INC0046,D004,Conflict of Interest,Low,2020-01-22,Resolved,104
+INC0047,D002,Unauthorised Access,Medium,2023-10-01,Escalated,
+INC0048,D007,Supplier Misconduct,Critical,2020-02-08,Resolved,111
+INC0049,D001,Unauthorised Payment,Low,2021-10-15,Resolved,94
+INC0050,D004,Legal Hold Violation,Medium,2020-07-28,Open,
+INC0051,D007,ESG Breach,Medium,2021-10-20,Open,
+INC0052,D002,System Outage,Low,2019-07-27,Resolved,104
+INC0053,D011,SLA Breach,Low,2021-08-26,Closed,108
+INC0054,D003,Workplace Misconduct,Low,2023-07-01,Resolved,63
+INC0055,D001,Policy Violation,Low,2023-05-19,Open,
+INC0056,D005,Environmental Breach,Critical,2024-06-16,Resolved,37
+INC0057,D003,Unauthorised Data Disclosure,Low,2019-08-28,Open,
+INC0058,D010,Bid Rigging Allegation,Low,2022-07-08,Escalated,
+INC0059,D001,Journal Entry Manipulation,Medium,2024-08-21,Open,
+INC0060,D009,Risk Reporting Error,High,2019-11-25,Open,
+INC0061,D003,Retaliation Allegation,Low,2021-08-21,Open,
+INC0062,D007,Logistics Fraud,Low,2019-06-12,Open,
+INC0063,D010,Contract Breach,Critical,2024-11-11,Open,
+INC0064,D006,Consent Violation,Critical,2022-07-10,Under Investigation,
+INC0065,D004,Conflict of Interest,Low,2022-05-13,Under Investigation,
+INC0066,D008,Audit Obstruction,Low,2024-02-21,Under Investigation,
+INC0067,D010,Procurement Fraud,High,2021-05-23,Closed,13
+INC0068,D009,Unregistered Risk,Medium,2019-10-09,Under Investigation,
+INC0069,D004,Regulatory Non-Compliance,Low,2023-11-30,Under Investigation,
+INC0070,D009,Risk Limit Breach,High,2024-12-06,Escalated,
+INC0071,D001,Journal Entry Manipulation,Medium,2020-02-29,Escalated,
+INC0072,D003,Discrimination Complaint,Low,2020-09-28,Under Investigation,
+INC0073,D005,Near Miss Event,Low,2022-11-05,Under Investigation,
+INC0074,D004,Regulatory Non-Compliance,High,2024-06-24,Escalated,
+INC0075,D005,Health and Safety Incident,Critical,2023-10-01,Open,
+INC0076,D005,Health and Safety Incident,Medium,2020-06-19,Open,
+INC0077,D011,Unauthorised Account Access,Critical,2023-12-15,Under Investigation,
+INC0078,D009,Model Error,High,2019-02-09,Escalated,
+INC0079,D002,Malware Detection,Low,2019-05-28,Open,
+INC0080,D006,Consent Violation,Medium,2020-06-06,Closed,71
+INC0081,D001,Unauthorised Payment,Low,2023-01-05,Under Investigation,
+INC0082,D004,Sanctions Breach,Critical,2020-02-26,Escalated,
+INC0083,D006,Regulatory Inquiry,High,2020-09-25,Closed,114
+INC0084,D004,Sanctions Breach,Medium,2019-04-12,Open,
+INC0085,D003,Unauthorised Data Disclosure,Medium,2021-10-13,Escalated,
+INC0086,D005,Health and Safety Incident,Medium,2019-06-08,Open,
+INC0087,D008,Evidence Tampering,Medium,2022-12-03,Open,
+INC0088,D005,Quality Failure,Low,2021-03-02,Open,
+INC0089,D007,ESG Breach,Low,2022-02-17,Under Investigation,
+INC0090,D006,Competitor Defamation,Medium,2022-09-18,Escalated,
+INC0091,D001,Unauthorised Payment,Low,2021-12-23,Open,
+INC0092,D001,Journal Entry Manipulation,Medium,2022-11-16,Open,
+INC0093,D012,M&A Due Diligence Gap,High,2024-09-25,Under Investigation,
+INC0094,D002,System Outage,Low,2021-11-09,Resolved,116
+INC0095,D001,Policy Violation,Low,2024-10-30,Escalated,
+INC0096,D009,Unregistered Risk,Medium,2023-11-02,Escalated,
+INC0097,D002,Phishing Incident,High,2022-07-09,Escalated,
+INC0098,D011,Customer Data Misuse,High,2022-06-20,Open,
+INC0099,D011,Complaint Mishandling,Critical,2022-04-26,Resolved,42
+INC0100,D009,Unregistered Risk,Medium,2023-04-02,Open,
+INC0101,D011,Unauthorised Account Access,High,2022-05-17,Escalated,
+INC0102,D007,Supplier Misconduct,Medium,2022-03-21,Closed,107
+INC0103,D004,Legal Hold Violation,High,2022-08-12,Resolved,101
+INC0104,D008,Evidence Tampering,High,2024-04-22,Resolved,57
+INC0105,D012,Strategic Misrepresentation,Medium,2024-10-12,Open,
+INC0106,D011,Refund Fraud,Medium,2020-01-18,Escalated,
+INC0107,D004,Regulatory Non-Compliance,Low,2021-03-26,Escalated,
+INC0108,D003,Discrimination Complaint,Low,2024-04-30,Open,
+INC0109,D010,Contract Breach,Medium,2021-03-07,Open,
+INC0110,D012,M&A Due Diligence Gap,Medium,2023-06-25,Escalated,
+INC0111,D004,Bribery Allegation,Low,2023-10-08,Open,
+INC0112,D004,Legal Hold Violation,Medium,2019-07-25,Open,
+INC0113,D009,Risk Reporting Error,Medium,2020-06-30,Open,
+INC0114,D008,Audit Independence Breach,High,2022-07-23,Escalated,
+INC0115,D008,Audit Independence Breach,Medium,2024-01-01,Closed,105
+INC0116,D003,Workplace Misconduct,Medium,2021-11-27,Escalated,
+INC0117,D004,Regulatory Non-Compliance,High,2024-06-07,Escalated,
+INC0118,D011,Customer Data Misuse,Medium,2019-11-14,Open,
+INC0119,D012,Insider Information Leak,Medium,2022-10-07,Under Investigation,
+INC0120,D006,Consent Violation,Low,2021-08-05,Closed,11
+INC0121,D007,Import Violation,Critical,2021-05-26,Escalated,
+INC0122,D002,Phishing Incident,High,2024-03-23,Resolved,53
+INC0123,D007,Import Violation,Medium,2023-05-15,Open,
+INC0124,D010,Procurement Fraud,High,2023-04-08,Escalated,
+INC0125,D008,Scope Limitation,Medium,2023-05-17,Open,
+INC0126,D007,Logistics Fraud,High,2021-06-22,Closed,96
+INC0127,D008,Scope Limitation,Medium,2024-06-12,Open,
+INC0128,D001,Policy Violation,Critical,2020-11-07,Resolved,44
+INC0129,D008,Audit Independence Breach,High,2019-04-21,Open,
+INC0130,D007,Supplier Misconduct,Low,2023-10-22,Closed,73
+INC0131,D003,Discrimination Complaint,Medium,2023-04-02,Resolved,24
+INC0132,D006,Regulatory Inquiry,Medium,2022-10-14,Open,
+INC0133,D007,Inventory Discrepancy,Medium,2019-12-02,Under Investigation,
+INC0134,D008,Audit Independence Breach,Low,2022-12-04,Open,
+INC0135,D004,Bribery Allegation,Critical,2019-06-14,Escalated,
+INC0136,D001,Expense Fraud,Low,2020-09-16,Open,
+INC0137,D004,Conflict of Interest,Critical,2020-04-13,Open,
+INC0138,D010,Contract Breach,Critical,2021-11-15,Open,
+INC0139,D006,Competitor Defamation,High,2020-04-14,Open,
+INC0140,D003,Discrimination Complaint,High,2019-04-16,Under Investigation,
+INC0141,D005,Environmental Breach,Medium,2021-03-23,Closed,87
+INC0142,D002,Malware Detection,Low,2020-02-22,Closed,89
+INC0143,D012,Disclosure Violation,Low,2019-06-18,Under Investigation,
+INC0144,D006,Data Privacy Breach,Low,2024-09-03,Closed,55
+INC0145,D011,SLA Breach,Medium,2024-06-30,Under Investigation,
+INC0146,D002,Malware Detection,Medium,2020-09-18,Resolved,47
+INC0147,D007,Logistics Fraud,Critical,2022-01-11,Open,
+INC0148,D010,Contract Breach,Medium,2023-11-20,Closed,100
+INC0149,D012,Board Reporting Failure,Low,2019-12-21,Closed,35
+INC0150,D005,Environmental Breach,High,2023-04-02,Resolved,32
+INC0151,D006,Regulatory Inquiry,Medium,2021-01-14,Open,
+INC0152,D008,Scope Limitation,Medium,2022-10-26,Open,
+INC0153,D005,Process Non-Compliance,High,2019-02-11,Closed,90
+INC0154,D009,Risk Reporting Error,Low,2023-07-23,Open,
+INC0155,D008,Evidence Tampering,Critical,2024-05-04,Closed,98
+INC0156,D011,Complaint Mishandling,Medium,2019-03-12,Escalated,
+INC0157,D002,Ransomware Attack,Medium,2021-09-23,Under Investigation,
+INC0158,D005,Near Miss Event,Medium,2024-04-22,Escalated,
+INC0159,D009,Model Error,Critical,2022-09-16,Closed,45
+INC0160,D006,Regulatory Inquiry,Medium,2022-06-09,Escalated,
+INC0161,D005,Health and Safety Incident,Critical,2021-02-27,Open,
+INC0162,D006,Competitor Defamation,Critical,2021-01-28,Open,
+INC0163,D004,Conflict of Interest,Medium,2024-11-18,Open,
+INC0164,D010,Procurement Fraud,Low,2022-04-28,Under Investigation,
+INC0165,D004,Sanctions Breach,Medium,2019-02-27,Under Investigation,
+INC0166,D012,Board Reporting Failure,Low,2019-08-12,Closed,17
+INC0167,D009,Unregistered Risk,Critical,2024-07-03,Under Investigation,
+INC0168,D002,System Outage,Medium,2024-04-06,Open,
+INC0169,D008,Evidence Tampering,Low,2021-10-31,Resolved,44
+INC0170,D008,Audit Obstruction,Medium,2024-07-07,Open,
+INC0171,D002,Malware Detection,Low,2020-09-13,Closed,81
+INC0172,D003,Discrimination Complaint,Low,2020-04-30,Closed,39
+INC0173,D009,Risk Framework Violation,High,2021-07-13,Resolved,78
+INC0174,D009,Model Error,Medium,2023-10-23,Resolved,58
+INC0175,D005,Health and Safety Incident,High,2020-02-11,Closed,80
+INC0176,D004,Sanctions Breach,Medium,2019-11-29,Escalated,
+INC0177,D003,GDPR Breach,High,2019-11-04,Open,
+INC0178,D003,Workplace Misconduct,Medium,2024-04-08,Open,
+INC0179,D005,Quality Failure,Medium,2022-03-04,Open,
+INC0180,D012,Insider Information Leak,Medium,2021-03-21,Resolved,10
+INC0181,D007,Logistics Fraud,Low,2020-09-02,Open,
+INC0182,D005,Health and Safety Incident,Low,2020-11-10,Open,
+INC0183,D005,Near Miss Event,Medium,2023-12-04,Closed,96
+INC0184,D002,Phishing Incident,Critical,2023-07-07,Resolved,89
+INC0185,D005,Environmental Breach,Medium,2019-11-26,Closed,70
+INC0186,D010,Contract Breach,Critical,2022-08-13,Open,
+INC0187,D010,Procurement Fraud,Low,2021-07-26,Under Investigation,
+INC0188,D011,SLA Breach,Critical,2022-01-08,Closed,76
+INC0189,D010,Conflict of Interest,Medium,2024-10-26,Open,
+INC0190,D011,Customer Data Misuse,Low,2023-11-21,Resolved,118
+INC0191,D011,Complaint Mishandling,Medium,2023-07-31,Resolved,12
+INC0192,D006,Misleading Advertising,Low,2022-09-12,Under Investigation,
+INC0193,D007,Inventory Discrepancy,Medium,2023-06-29,Escalated,
+INC0194,D009,Model Error,Low,2022-07-12,Open,
+INC0195,D005,Health and Safety Incident,Medium,2024-10-08,Under Investigation,
+INC0196,D001,Journal Entry Manipulation,Medium,2023-08-20,Escalated,
+INC0197,D001,Journal Entry Manipulation,Medium,2024-08-03,Open,
+INC0198,D011,SLA Breach,Low,2021-12-29,Resolved,98
+INC0199,D009,Risk Limit Breach,Medium,2024-06-08,Open,
+INC0200,D002,Malware Detection,High,2021-09-07,Open,
+INC0201,D012,Board Reporting Failure,High,2019-02-26,Open,
+INC0202,D009,Unregistered Risk,Low,2024-03-05,Resolved,12
+INC0203,D002,Ransomware Attack,Medium,2022-04-10,Escalated,
+INC0204,D009,Risk Limit Breach,Medium,2024-05-30,Escalated,
+INC0205,D008,Finding Non-Disclosure,High,2020-08-15,Open,
+INC0206,D007,Logistics Fraud,High,2020-07-13,Open,
+INC0207,D002,Unauthorised Access,Medium,2024-09-10,Under Investigation,
+INC0208,D005,Process Non-Compliance,Critical,2022-05-07,Open,
+INC0209,D010,Contract Breach,Low,2024-01-04,Closed,85
+INC0210,D009,Risk Limit Breach,High,2023-03-26,Resolved,45
+INC0211,D008,Evidence Tampering,Critical,2021-09-05,Under Investigation,
+INC0212,D010,Contract Breach,Low,2022-07-27,Resolved,30
+INC0213,D012,M&A Due Diligence Gap,Medium,2020-09-15,Resolved,91
+INC0214,D008,Evidence Tampering,High,2022-09-21,Open,
+INC0215,D002,System Outage,Medium,2019-03-04,Resolved,13
+INC0216,D012,M&A Due Diligence Gap,Critical,2020-09-24,Open,
+INC0217,D002,Phishing Incident,Medium,2023-06-17,Resolved,101
+INC0218,D011,Customer Data Misuse,Critical,2024-12-25,Open,
+INC0219,D007,Inventory Discrepancy,High,2019-05-28,Under Investigation,
+INC0220,D010,Conflict of Interest,Critical,2022-03-23,Open,
+INC0221,D004,Bribery Allegation,Medium,2020-02-08,Escalated,
+INC0222,D011,SLA Breach,Medium,2020-11-12,Escalated,
+INC0223,D012,Strategic Misrepresentation,Low,2022-08-21,Under Investigation,
+INC0224,D001,Unauthorised Payment,Medium,2023-10-31,Under Investigation,
+INC0225,D003,Retaliation Allegation,Medium,2021-01-07,Open,
+INC0226,D003,Discrimination Complaint,High,2023-04-16,Open,
+INC0227,D010,Conflict of Interest,Medium,2020-08-09,Escalated,
+INC0228,D004,Regulatory Non-Compliance,Medium,2021-11-11,Resolved,82
+INC0229,D011,Complaint Mishandling,Medium,2020-10-09,Open,
+INC0230,D002,System Outage,Medium,2023-10-04,Resolved,45
+INC0231,D012,M&A Due Diligence Gap,Medium,2021-03-26,Under Investigation,
+INC0232,D007,Import Violation,Medium,2023-01-10,Resolved,14
+INC0233,D010,Unauthorised Procurement,Low,2023-06-10,Under Investigation,
+INC0234,D005,Near Miss Event,Critical,2019-07-20,Open,
+INC0235,D010,Contract Breach,Medium,2021-07-31,Escalated,
+INC0236,D010,Conflict of Interest,Critical,2021-02-17,Under Investigation,
+INC0237,D010,Conflict of Interest,Critical,2020-02-02,Under Investigation,
+INC0238,D011,SLA Breach,Medium,2023-12-11,Escalated,
+INC0239,D001,Expense Fraud,Low,2022-04-23,Closed,47
+INC0240,D006,Regulatory Inquiry,Low,2021-04-02,Escalated,
+INC0241,D003,Unauthorised Data Disclosure,High,2024-08-17,Closed,113
+INC0242,D005,Process Non-Compliance,Medium,2022-04-23,Open,
+INC0243,D012,Strategic Misrepresentation,Medium,2019-11-05,Under Investigation,
+INC0244,D003,Workplace Misconduct,High,2023-02-07,Open,
+INC0245,D002,Phishing Incident,High,2020-05-21,Resolved,2
+INC0246,D008,Scope Limitation,High,2023-04-10,Under Investigation,
+INC0247,D011,SLA Breach,Critical,2021-08-15,Under Investigation,
+INC0248,D008,Audit Independence Breach,High,2022-09-05,Open,
+INC0249,D010,Procurement Fraud,Critical,2024-03-16,Open,
+INC0250,D012,M&A Due Diligence Gap,Low,2020-07-26,Under Investigation,
+INC0251,D001,Unauthorised Payment,Medium,2020-04-20,Open,
+INC0252,D002,System Outage,Low,2023-05-11,Open,
+INC0253,D008,Audit Independence Breach,Medium,2020-09-24,Under Investigation,
+INC0254,D007,Supplier Misconduct,Medium,2023-07-30,Escalated,
+INC0255,D005,Process Non-Compliance,Low,2023-12-22,Open,
+INC0256,D008,Scope Limitation,Low,2023-02-13,Open,
+INC0257,D009,Risk Limit Breach,Low,2023-06-19,Escalated,
+INC0258,D005,Health and Safety Incident,Medium,2020-01-11,Open,
+INC0259,D011,Refund Fraud,Low,2019-07-27,Open,
+INC0260,D006,Consent Violation,High,2021-04-20,Open,
+INC0261,D002,System Outage,Low,2021-08-12,Closed,27
+INC0262,D006,Competitor Defamation,Low,2022-02-09,Open,
+INC0263,D003,Retaliation Allegation,Medium,2020-12-15,Open,
+INC0264,D002,Data Breach,Low,2019-03-02,Escalated,
+INC0265,D006,Competitor Defamation,Medium,2019-03-06,Open,
+INC0266,D003,Discrimination Complaint,Low,2023-09-21,Under Investigation,
+INC0267,D009,Risk Reporting Error,Medium,2024-01-11,Open,
+INC0268,D006,Misleading Advertising,Medium,2024-08-25,Closed,76
+INC0269,D004,Legal Hold Violation,Medium,2024-02-20,Closed,6
+INC0270,D011,SLA Breach,Medium,2023-07-04,Open,
+INC0271,D007,Supplier Misconduct,Medium,2023-12-22,Escalated,
+INC0272,D002,Phishing Incident,High,2020-08-30,Open,
+INC0273,D002,Phishing Incident,High,2022-08-24,Open,
+INC0274,D007,ESG Breach,Medium,2024-09-01,Closed,68
+INC0275,D010,Procurement Fraud,Critical,2021-05-30,Resolved,13
+INC0276,D007,Import Violation,Medium,2022-10-20,Resolved,114
+INC0277,D008,Audit Obstruction,Medium,2023-10-15,Resolved,54
+INC0278,D006,Data Privacy Breach,Medium,2020-09-17,Escalated,
+INC0279,D011,SLA Breach,Low,2020-01-17,Resolved,9
+INC0280,D007,ESG Breach,Low,2019-09-03,Open,
+INC0281,D010,Unauthorised Procurement,Critical,2020-05-15,Closed,72
+INC0282,D007,Inventory Discrepancy,Critical,2019-07-30,Under Investigation,
+INC0283,D005,Process Non-Compliance,Low,2024-09-09,Closed,40
+INC0284,D004,Conflict of Interest,Low,2020-03-19,Open,
+INC0285,D006,Misleading Advertising,Medium,2021-07-15,Closed,48
+INC0286,D007,Logistics Fraud,High,2019-04-18,Closed,99
+INC0287,D010,Unauthorised Procurement,Low,2021-01-08,Escalated,
+INC0288,D005,Process Non-Compliance,Medium,2022-12-08,Escalated,
+INC0289,D001,Expense Fraud,High,2023-06-30,Open,
+INC0290,D002,Malware Detection,Critical,2019-05-06,Open,
+INC0291,D002,System Outage,Low,2023-03-21,Escalated,
+INC0292,D007,Import Violation,Medium,2022-06-30,Resolved,44
+INC0293,D012,Disclosure Violation,High,2019-12-14,Under Investigation,
+INC0294,D001,Expense Fraud,High,2019-07-23,Open,
+INC0295,D011,Customer Data Misuse,Medium,2023-10-03,Open,
+INC0296,D008,Finding Non-Disclosure,Medium,2021-06-01,Closed,57
+INC0297,D009,Risk Limit Breach,Medium,2020-03-30,Open,
+INC0298,D005,Near Miss Event,Medium,2024-11-28,Escalated,
+INC0299,D011,SLA Breach,Low,2023-06-07,Under Investigation,
+INC0300,D010,Procurement Fraud,Low,2022-05-19,Open,
+INC0301,D004,Regulatory Non-Compliance,Medium,2022-09-05,Open,
+INC0302,D002,Unauthorised Access,Critical,2023-10-30,Open,
+INC0303,D003,Workplace Misconduct,High,2021-07-31,Open,
+INC0304,D009,Risk Limit Breach,Low,2023-06-15,Closed,107
+INC0305,D012,M&A Due Diligence Gap,Low,2024-02-27,Open,
+INC0306,D002,System Outage,Medium,2023-07-15,Under Investigation,
+INC0307,D012,M&A Due Diligence Gap,Medium,2020-04-16,Escalated,
+INC0308,D007,ESG Breach,Low,2024-02-28,Open,
+INC0309,D012,Strategic Misrepresentation,Medium,2020-03-09,Under Investigation,
+INC0310,D004,Conflict of Interest,High,2019-11-19,Resolved,76
+INC0311,D007,ESG Breach,Low,2022-09-26,Under Investigation,
+INC0312,D003,Retaliation Allegation,Critical,2020-04-12,Open,
+INC0313,D009,Risk Limit Breach,Medium,2020-08-27,Closed,25
+INC0314,D004,Sanctions Breach,Medium,2021-03-19,Open,
+INC0315,D003,Discrimination Complaint,Low,2024-07-16,Closed,20
+INC0316,D008,Audit Independence Breach,Medium,2022-08-16,Closed,98
+INC0317,D011,Unauthorised Account Access,Medium,2019-10-07,Under Investigation,
+INC0318,D008,Scope Limitation,Medium,2019-08-19,Resolved,81
+INC0319,D006,Data Privacy Breach,Medium,2024-01-26,Closed,10
+INC0320,D001,Unauthorised Payment,Medium,2019-11-11,Open,
+INC0321,D011,Refund Fraud,High,2024-09-07,Open,
+INC0322,D007,Logistics Fraud,Critical,2019-06-18,Resolved,75
+INC0323,D008,Evidence Tampering,Medium,2024-05-02,Closed,84
+INC0324,D009,Risk Reporting Error,Medium,2020-02-28,Open,
+INC0325,D006,Misleading Advertising,High,2020-12-07,Escalated,
+INC0326,D001,Policy Violation,Medium,2024-11-16,Open,
+INC0327,D009,Risk Limit Breach,Medium,2022-03-04,Closed,21
+INC0328,D007,ESG Breach,Critical,2019-08-03,Resolved,100
+INC0329,D011,Customer Data Misuse,Low,2022-09-12,Escalated,
+INC0330,D002,Unauthorised Access,Medium,2021-10-29,Closed,87
+INC0331,D012,Disclosure Violation,Low,2022-09-27,Escalated,
+INC0332,D002,Ransomware Attack,Medium,2022-06-24,Closed,85
+INC0333,D011,Complaint Mishandling,Low,2019-12-14,Escalated,
+INC0334,D005,Process Non-Compliance,Low,2024-11-26,Closed,49
+INC0335,D002,Malware Detection,Medium,2024-09-13,Escalated,
+INC0336,D006,Data Privacy Breach,Medium,2021-01-08,Open,
+INC0337,D004,Conflict of Interest,Low,2021-07-16,Under Investigation,
+INC0338,D003,Discrimination Complaint,Medium,2020-02-19,Open,
+INC0339,D009,Risk Framework Violation,Low,2022-10-11,Closed,107
+INC0340,D010,Bid Rigging Allegation,Medium,2020-09-23,Open,
+INC0341,D003,Retaliation Allegation,Low,2023-11-28,Open,
+INC0342,D001,Expense Fraud,Medium,2022-03-13,Resolved,47
+INC0343,D012,Disclosure Violation,Low,2022-06-21,Resolved,30
+INC0344,D008,Scope Limitation,Critical,2023-12-10,Open,
+INC0345,D008,Finding Non-Disclosure,High,2024-11-30,Under Investigation,
+INC0346,D007,Import Violation,High,2020-07-20,Open,
+INC0347,D005,Environmental Breach,Medium,2020-02-25,Open,
+INC0348,D012,Strategic Misrepresentation,Medium,2019-12-10,Closed,109
+INC0349,D003,Workplace Misconduct,High,2020-08-26,Under Investigation,
+INC0350,D007,Import Violation,Medium,2022-12-02,Open,
+INC0351,D001,Policy Violation,High,2023-03-12,Resolved,7
+INC0352,D004,Regulatory Non-Compliance,Low,2019-04-26,Resolved,11
+INC0353,D006,Data Privacy Breach,Low,2020-07-17,Open,
+INC0354,D001,Policy Violation,Critical,2020-07-22,Under Investigation,
+INC0355,D012,Disclosure Violation,Low,2019-11-21,Resolved,58
+INC0356,D001,Expense Fraud,Low,2024-12-01,Under Investigation,
+INC0357,D007,ESG Breach,Low,2022-05-18,Open,
+INC0358,D002,Ransomware Attack,Medium,2024-02-16,Open,
+INC0359,D002,Unauthorised Access,High,2019-03-09,Open,
+INC0360,D011,Unauthorised Account Access,Critical,2020-08-11,Closed,74
+INC0361,D005,Near Miss Event,Medium,2021-09-12,Resolved,1
+INC0362,D010,Procurement Fraud,High,2023-01-17,Resolved,24
+INC0363,D002,System Outage,High,2019-03-25,Closed,70
+INC0364,D007,Inventory Discrepancy,Medium,2021-11-04,Resolved,6
+INC0365,D012,Board Reporting Failure,Low,2022-11-13,Open,
+INC0366,D004,Bribery Allegation,High,2022-09-23,Escalated,
+INC0367,D003,Unauthorised Data Disclosure,High,2022-10-18,Open,
+INC0368,D011,Complaint Mishandling,Critical,2024-05-14,Open,
+INC0369,D011,Unauthorised Account Access,Low,2024-02-18,Open,
+INC0370,D001,Expense Fraud,Low,2021-03-28,Under Investigation,
+INC0371,D001,Unauthorised Payment,High,2023-06-20,Under Investigation,
+INC0372,D009,Risk Reporting Error,Critical,2021-02-21,Resolved,33
+INC0373,D005,Health and Safety Incident,Critical,2022-09-21,Under Investigation,
+INC0374,D005,Process Non-Compliance,Medium,2023-06-27,Open,
+INC0375,D012,M&A Due Diligence Gap,Medium,2021-02-04,Resolved,115
+INC0376,D008,Finding Non-Disclosure,Medium,2024-10-27,Escalated,
+INC0377,D005,Environmental Breach,Low,2023-10-30,Open,
+INC0378,D010,Bid Rigging Allegation,Medium,2022-08-08,Open,
+INC0379,D002,Phishing Incident,Critical,2022-04-25,Open,
+INC0380,D005,Environmental Breach,Low,2023-12-24,Resolved,78
+INC0381,D006,Data Privacy Breach,High,2023-11-17,Resolved,6
+INC0382,D005,Health and Safety Incident,Low,2023-07-22,Escalated,
+INC0383,D006,Consent Violation,Low,2020-08-07,Closed,103
+INC0384,D010,Contract Breach,Low,2020-06-01,Escalated,
+INC0385,D002,Malware Detection,Medium,2023-01-23,Open,
+INC0386,D007,Logistics Fraud,Low,2024-01-17,Closed,5
+INC0387,D006,Regulatory Inquiry,Low,2020-07-17,Under Investigation,
+INC0388,D009,Model Error,Medium,2022-02-15,Under Investigation,
+INC0389,D004,Bribery Allegation,Critical,2021-02-01,Open,
+INC0390,D008,Audit Independence Breach,Low,2021-12-08,Closed,50
+INC0391,D005,Environmental Breach,Low,2022-03-15,Escalated,
+INC0392,D012,Strategic Misrepresentation,Low,2019-10-31,Resolved,26
+INC0393,D008,Finding Non-Disclosure,Low,2022-08-02,Open,
+INC0394,D011,SLA Breach,High,2022-04-04,Under Investigation,
+INC0395,D005,Quality Failure,Medium,2024-09-14,Open,
+INC0396,D004,Sanctions Breach,Low,2021-08-27,Open,
+INC0397,D008,Scope Limitation,High,2023-02-20,Open,
+INC0398,D008,Audit Independence Breach,Low,2019-09-27,Closed,17
+INC0399,D005,Environmental Breach,High,2023-08-10,Resolved,92
+INC0400,D007,Import Violation,Medium,2019-10-31,Closed,10
+INC0401,D008,Audit Independence Breach,Medium,2020-06-09,Resolved,88
+INC0402,D009,Risk Framework Violation,Low,2020-06-12,Escalated,
+INC0403,D007,Supplier Misconduct,Low,2024-10-23,Closed,117
+INC0404,D003,GDPR Breach,Low,2022-08-14,Under Investigation,
+INC0405,D012,Board Reporting Failure,High,2022-03-09,Open,
+INC0406,D002,Ransomware Attack,Critical,2022-01-29,Under Investigation,
+INC0407,D003,Unauthorised Data Disclosure,High,2024-12-25,Escalated,
+INC0408,D002,Ransomware Attack,High,2020-09-23,Closed,83
+INC0409,D003,Retaliation Allegation,Critical,2022-10-14,Escalated,
+INC0410,D010,Procurement Fraud,Low,2019-07-06,Open,
+INC0411,D011,Unauthorised Account Access,High,2023-09-03,Closed,34
+INC0412,D010,Procurement Fraud,Medium,2022-04-01,Escalated,
+INC0413,D011,Complaint Mishandling,Low,2023-07-22,Under Investigation,
+INC0414,D005,Health and Safety Incident,Low,2023-12-06,Resolved,10
+INC0415,D007,Import Violation,Medium,2020-08-11,Resolved,60
+INC0416,D006,Data Privacy Breach,Critical,2022-11-15,Escalated,
+INC0417,D007,ESG Breach,High,2020-03-10,Open,
+INC0418,D006,Regulatory Inquiry,Low,2021-12-31,Open,
+INC0419,D008,Evidence Tampering,Low,2019-07-27,Open,
+INC0420,D005,Near Miss Event,Medium,2021-10-13,Resolved,111
+INC0421,D003,Retaliation Allegation,Critical,2022-07-04,Under Investigation,
+INC0422,D004,Conflict of Interest,High,2024-03-27,Open,
+INC0423,D008,Finding Non-Disclosure,Low,2020-01-04,Under Investigation,
+INC0424,D007,Import Violation,Low,2022-12-16,Closed,59
+INC0425,D001,Unauthorised Payment,Medium,2024-04-11,Open,
+INC0426,D005,Health and Safety Incident,Medium,2020-07-02,Closed,2
+INC0427,D005,Process Non-Compliance,Medium,2023-02-07,Escalated,
+INC0428,D001,Journal Entry Manipulation,High,2021-03-08,Resolved,7
+INC0429,D006,Misleading Advertising,Medium,2024-08-27,Closed,37
+INC0430,D008,Audit Independence Breach,Critical,2020-05-01,Closed,36
+INC0431,D003,Workplace Misconduct,Medium,2022-10-20,Open,
+INC0432,D009,Unregistered Risk,Low,2024-09-16,Under Investigation,
+INC0433,D007,Supplier Misconduct,Low,2020-07-15,Closed,6
+INC0434,D012,M&A Due Diligence Gap,High,2024-02-15,Under Investigation,
+INC0435,D003,Retaliation Allegation,Low,2022-09-05,Closed,115
+INC0436,D010,Conflict of Interest,Medium,2022-05-10,Under Investigation,
+INC0437,D010,Bid Rigging Allegation,High,2024-12-20,Under Investigation,
+INC0438,D008,Audit Independence Breach,Medium,2024-04-29,Escalated,
+INC0439,D001,Unauthorised Payment,Critical,2020-03-24,Under Investigation,
+INC0440,D007,Supplier Misconduct,High,2024-04-27,Closed,40
+INC0441,D005,Near Miss Event,High,2021-07-21,Escalated,
+INC0442,D012,Disclosure Violation,Medium,2020-11-29,Open,
+INC0443,D009,Risk Framework Violation,Medium,2020-08-28,Escalated,
+INC0444,D011,SLA Breach,High,2020-03-26,Open,
+INC0445,D004,Conflict of Interest,Medium,2023-09-12,Open,
+INC0446,D003,GDPR Breach,Medium,2024-08-17,Resolved,89
+INC0447,D010,Procurement Fraud,Critical,2020-07-19,Resolved,112
+INC0448,D009,Risk Framework Violation,Medium,2024-05-13,Open,
+INC0449,D009,Unregistered Risk,Medium,2024-12-23,Resolved,41
+INC0450,D006,Data Privacy Breach,High,2024-06-06,Closed,46
+INC0451,D004,Regulatory Non-Compliance,High,2022-05-07,Open,
+INC0452,D004,Regulatory Non-Compliance,Critical,2021-04-29,Under Investigation,
+INC0453,D012,M&A Due Diligence Gap,Medium,2024-05-19,Escalated,
+INC0454,D006,Data Privacy Breach,Medium,2020-05-14,Closed,120
+INC0455,D010,Bid Rigging Allegation,Medium,2023-06-05,Escalated,
+INC0456,D006,Data Privacy Breach,Low,2022-03-24,Open,
+INC0457,D012,Board Reporting Failure,Medium,2021-11-16,Open,
+INC0458,D012,Insider Information Leak,High,2022-01-15,Resolved,28
+INC0459,D009,Risk Limit Breach,Low,2020-03-23,Escalated,
+INC0460,D010,Bid Rigging Allegation,Low,2021-09-20,Escalated,
+INC0461,D001,Journal Entry Manipulation,Low,2021-08-11,Escalated,
+INC0462,D001,Policy Violation,Medium,2024-04-18,Open,
+INC0463,D002,Ransomware Attack,Low,2020-10-08,Escalated,
+INC0464,D007,Inventory Discrepancy,Medium,2021-03-27,Escalated,
+INC0465,D005,Process Non-Compliance,Critical,2019-08-31,Under Investigation,
+INC0466,D002,System Outage,Low,2024-12-31,Escalated,
+INC0467,D012,Strategic Misrepresentation,Low,2023-09-08,Escalated,
+INC0468,D003,Workplace Misconduct,Medium,2021-02-02,Open,
+INC0469,D012,Strategic Misrepresentation,Low,2022-05-07,Under Investigation,
+INC0470,D010,Unauthorised Procurement,Medium,2024-02-05,Closed,14
+INC0471,D011,Complaint Mishandling,Low,2024-08-27,Closed,68
+INC0472,D008,Evidence Tampering,Low,2022-09-16,Under Investigation,
+INC0473,D003,Workplace Misconduct,Critical,2021-11-19,Escalated,
+INC0474,D012,Strategic Misrepresentation,Critical,2022-10-12,Open,
+INC0475,D005,Quality Failure,Low,2023-07-19,Closed,87
+INC0476,D007,Supplier Misconduct,Medium,2020-01-26,Closed,42
+INC0477,D003,Workplace Misconduct,Medium,2021-10-13,Open,
+INC0478,D001,Policy Violation,Low,2024-01-04,Under Investigation,
+INC0479,D005,Process Non-Compliance,High,2019-02-16,Under Investigation,
+INC0480,D005,Process Non-Compliance,Critical,2021-08-25,Escalated,
+INC0481,D001,Financial Misstatement,Medium,2022-06-10,Escalated,
+INC0482,D003,Retaliation Allegation,Critical,2022-06-27,Resolved,88
+INC0483,D012,Board Reporting Failure,Medium,2021-06-23,Open,
+INC0484,D004,Conflict of Interest,Low,2024-02-07,Open,
+INC0485,D012,M&A Due Diligence Gap,Critical,2024-04-12,Closed,48
+INC0486,D009,Unregistered Risk,Low,2019-12-02,Escalated,
+INC0487,D009,Risk Limit Breach,Low,2020-04-04,Resolved,68
+INC0488,D001,Journal Entry Manipulation,Low,2020-09-05,Closed,116
+INC0489,D003,Retaliation Allegation,Medium,2020-04-21,Under Investigation,
+INC0490,D011,Refund Fraud,Medium,2020-01-08,Open,
+INC0491,D009,Risk Reporting Error,Medium,2020-06-24,Resolved,104
+INC0492,D009,Risk Framework Violation,Low,2024-03-08,Resolved,59
+INC0493,D011,SLA Breach,Medium,2021-11-08,Under Investigation,
+INC0494,D001,Expense Fraud,High,2019-10-27,Escalated,
+INC0495,D001,Financial Misstatement,High,2019-09-04,Resolved,45
+INC0496,D002,Phishing Incident,Medium,2021-01-07,Resolved,5
+INC0497,D003,Workplace Misconduct,Medium,2023-04-16,Escalated,
+INC0498,D008,Audit Obstruction,Critical,2020-06-28,Resolved,49
+INC0499,D011,SLA Breach,Low,2023-05-29,Under Investigation,
+INC0500,D009,Unregistered Risk,Low,2019-04-04,Open,
+INC0501,D005,Near Miss Event,Medium,2024-12-18,Resolved,87
+INC0502,D007,Import Violation,Medium,2022-11-18,Open,
+INC0503,D003,GDPR Breach,Critical,2020-04-07,Under Investigation,
+INC0504,D001,Policy Violation,High,2019-03-06,Escalated,
+INC0505,D004,Bribery Allegation,Low,2019-05-18,Open,
+INC0506,D008,Audit Obstruction,Low,2019-07-01,Closed,87
+INC0507,D007,Logistics Fraud,Low,2019-08-20,Resolved,30
+INC0508,D003,GDPR Breach,Critical,2022-07-30,Closed,38
+INC0509,D010,Unauthorised Procurement,Low,2022-05-21,Closed,99
+INC0510,D003,Retaliation Allegation,Low,2023-08-21,Escalated,
+INC0511,D005,Health and Safety Incident,High,2020-12-18,Under Investigation,
+INC0512,D011,Complaint Mishandling,High,2024-07-23,Escalated,
+INC0513,D001,Policy Violation,High,2022-07-29,Under Investigation,
+INC0514,D012,Insider Information Leak,Medium,2023-03-22,Resolved,53
+INC0515,D003,GDPR Breach,Low,2022-05-16,Closed,61
+INC0516,D012,M&A Due Diligence Gap,Low,2023-08-18,Open,
+INC0517,D007,Import Violation,Medium,2021-09-21,Closed,68
+INC0518,D005,Process Non-Compliance,Critical,2019-11-20,Open,
+INC0519,D008,Audit Obstruction,High,2021-02-19,Under Investigation,
+INC0520,D001,Policy Violation,Critical,2019-06-11,Under Investigation,
+INC0521,D002,System Outage,Critical,2021-06-07,Open,
+INC0522,D008,Scope Limitation,Medium,2019-03-04,Open,
+INC0523,D004,Bribery Allegation,Critical,2024-05-15,Open,
+INC0524,D004,Legal Hold Violation,Critical,2021-04-17,Escalated,
+INC0525,D007,Logistics Fraud,Medium,2022-03-05,Open,
+INC0526,D007,ESG Breach,Medium,2021-12-07,Resolved,69
+INC0527,D006,Regulatory Inquiry,Medium,2020-02-08,Closed,113
+INC0528,D012,Board Reporting Failure,Low,2023-02-27,Resolved,98
+INC0529,D006,Competitor Defamation,Low,2020-08-20,Resolved,6
+INC0530,D001,Journal Entry Manipulation,High,2023-09-07,Under Investigation,
+INC0531,D005,Quality Failure,Medium,2021-07-31,Open,
+INC0532,D007,Import Violation,Medium,2022-10-14,Closed,107
+INC0533,D005,Environmental Breach,Medium,2020-11-20,Resolved,93
+INC0534,D012,Insider Information Leak,Low,2024-06-23,Under Investigation,
+INC0535,D003,Discrimination Complaint,High,2019-05-19,Closed,83
+INC0536,D002,Data Breach,Low,2023-08-17,Escalated,
+INC0537,D003,GDPR Breach,Low,2020-09-10,Escalated,
+INC0538,D001,Journal Entry Manipulation,Medium,2023-03-09,Open,
+INC0539,D001,Journal Entry Manipulation,Medium,2024-06-21,Closed,82
+INC0540,D001,Journal Entry Manipulation,High,2023-08-12,Open,
+INC0541,D001,Journal Entry Manipulation,Critical,2022-01-30,Open,
+INC0542,D009,Risk Reporting Error,High,2023-10-30,Under Investigation,
+INC0543,D003,Discrimination Complaint,High,2020-09-01,Open,
+INC0544,D004,Legal Hold Violation,High,2021-10-30,Open,
+INC0545,D006,Regulatory Inquiry,Low,2023-03-09,Under Investigation,
+INC0546,D007,Import Violation,Critical,2021-07-14,Resolved,73
+INC0547,D005,Health and Safety Incident,Critical,2019-05-10,Escalated,
+INC0548,D002,Unauthorised Access,High,2024-05-03,Resolved,49
+INC0549,D001,Financial Misstatement,Critical,2020-12-02,Escalated,
+INC0550,D002,Unauthorised Access,Critical,2022-09-18,Resolved,109
+INC0551,D010,Bid Rigging Allegation,Low,2021-07-30,Open,
+INC0552,D004,Legal Hold Violation,Medium,2022-01-15,Escalated,
+INC0553,D001,Unauthorised Payment,High,2019-05-15,Open,
+INC0554,D003,Discrimination Complaint,Low,2020-08-13,Under Investigation,
+INC0555,D012,Strategic Misrepresentation,Medium,2020-10-27,Resolved,119
+INC0556,D010,Bid Rigging Allegation,Medium,2022-09-20,Open,
+INC0557,D007,Import Violation,Critical,2019-11-18,Escalated,
+INC0558,D009,Risk Limit Breach,Low,2020-02-05,Escalated,
+INC0559,D007,Supplier Misconduct,Medium,2023-06-13,Open,
+INC0560,D006,Data Privacy Breach,Medium,2024-07-02,Open,
+INC0561,D004,Legal Hold Violation,Medium,2023-11-04,Under Investigation,
+INC0562,D003,Retaliation Allegation,Critical,2023-04-06,Escalated,
+INC0563,D002,Ransomware Attack,Critical,2019-10-29,Closed,38
+INC0564,D002,Ransomware Attack,Medium,2020-09-23,Under Investigation,
+INC0565,D012,Board Reporting Failure,Low,2020-01-10,Resolved,41
+INC0566,D001,Policy Violation,Medium,2022-01-09,Under Investigation,
+INC0567,D002,Data Breach,Low,2023-11-01,Open,
+INC0568,D008,Audit Independence Breach,Medium,2020-02-28,Closed,72
+INC0569,D001,Unauthorised Payment,High,2020-01-17,Open,
+INC0570,D010,Unauthorised Procurement,Medium,2019-02-20,Closed,101
+INC0571,D005,Health and Safety Incident,Critical,2021-09-21,Resolved,50
+INC0572,D010,Contract Breach,Low,2020-07-22,Closed,22
+INC0573,D005,Process Non-Compliance,Medium,2020-08-20,Under Investigation,
+INC0574,D002,Unauthorised Access,Medium,2023-09-21,Open,
+INC0575,D005,Health and Safety Incident,Medium,2021-10-27,Resolved,101
+INC0576,D004,Conflict of Interest,High,2021-03-11,Escalated,
+INC0577,D008,Evidence Tampering,Medium,2019-01-28,Open,
+INC0578,D007,Logistics Fraud,Medium,2022-09-11,Under Investigation,
+INC0579,D008,Finding Non-Disclosure,Critical,2020-07-11,Under Investigation,
+INC0580,D005,Near Miss Event,Critical,2021-04-02,Under Investigation,
+INC0581,D008,Evidence Tampering,Medium,2022-07-31,Under Investigation,
+INC0582,D005,Environmental Breach,High,2021-09-19,Escalated,
+INC0583,D006,Regulatory Inquiry,Medium,2020-04-11,Resolved,36
+INC0584,D010,Bid Rigging Allegation,High,2021-01-06,Open,
+INC0585,D011,Complaint Mishandling,Critical,2021-05-08,Closed,4
+INC0586,D008,Audit Obstruction,Medium,2024-08-07,Under Investigation,
+INC0587,D003,Unauthorised Data Disclosure,Low,2021-10-31,Escalated,
+INC0588,D011,Complaint Mishandling,Medium,2019-10-30,Open,
+INC0589,D008,Audit Independence Breach,Medium,2024-12-28,Closed,62
+INC0590,D009,Model Error,High,2019-05-31,Escalated,
+INC0591,D006,Competitor Defamation,High,2019-12-15,Escalated,
+INC0592,D002,Malware Detection,Critical,2022-12-25,Open,
+INC0593,D003,Retaliation Allegation,Low,2023-06-25,Escalated,
+INC0594,D006,Misleading Advertising,Low,2021-11-25,Resolved,14
+INC0595,D004,Legal Hold Violation,High,2021-06-24,Closed,96
+INC0596,D008,Finding Non-Disclosure,Medium,2024-08-11,Under Investigation,
+INC0597,D003,Discrimination Complaint,Medium,2020-03-04,Under Investigation,
+INC0598,D005,Health and Safety Incident,Low,2020-08-03,Resolved,118
+INC0599,D006,Data Privacy Breach,Medium,2021-04-27,Under Investigation,
+INC0600,D009,Model Error,Low,2023-11-30,Resolved,45

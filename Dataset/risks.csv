@@ -1,0 +1,46 @@
+risk_id,department_id,risk_category,risk_description,impact_level,likelihood,inherent_risk_score,residual_risk_score,status
+R001,D001,Financial,Inaccurate financial reporting due to manual data entry errors,High,Possible,6,2,In Progress
+R002,D001,Financial,Unauthorised access to treasury systems enabling fund diversion,Critical,Likely,12,7,Closed
+R003,D001,Regulatory,Non-compliance with IFRS 16 lease accounting standards,High,Likely,9,8,Accepted
+R004,D001,Fraud,Expense reimbursement fraud by employees,Critical,Almost Certain,16,13,Open
+R005,D001,Operational,Month-end close process delays impacting external reporting deadlines,High,Unlikely,3,1,Closed
+R006,D002,Cybersecurity,Ransomware attack disrupting core business applications,Low,Likely,3,1,Closed
+R007,D002,Cybersecurity,Unpatched vulnerabilities in production servers exploited by threat actors,High,Almost Certain,12,10,Open
+R008,D002,Data Privacy,Personal data breach exposing customer PII,High,Likely,9,7,Open
+R009,D002,Third-Party,Critical vendor suffering a supply-chain cyberattack,Medium,Possible,4,3,Closed
+R010,D002,Cybersecurity,Insider threat resulting in intellectual property exfiltration,Medium,Possible,4,3,Open
+R011,D002,Operational,Prolonged unplanned system outage impacting revenue-generating services,Critical,Likely,12,8,Open
+R012,D003,Compliance,Failure to comply with GDPR data subject access requests,Medium,Unlikely,2,1,Open
+R013,D003,Operational,Inadequate onboarding process increasing time-to-productivity,Critical,Almost Certain,16,12,Closed
+R014,D003,HR,Discriminatory hiring practices leading to regulatory investigation,Medium,Likely,6,3,In Progress
+R015,D003,Reputational,High employee turnover damaging employer brand,Low,Unlikely,1,1,Open
+R016,D004,Regulatory,Anti-bribery and corruption policy breaches by employees,Low,Possible,2,1,Open
+R017,D004,Legal,Failure to identify and mitigate sanctions exposure in client portfolio,Low,Almost Certain,4,1,Open
+R018,D004,Compliance,Late or incorrect regulatory filings resulting in financial penalties,High,Unlikely,3,2,In Progress
+R019,D004,Legal,Inadequate contract management creating unenforceable agreements,Low,Likely,3,1,Mitigated
+R020,D005,Operational,Key-person dependency in critical production process,Critical,Possible,8,3,Mitigated
+R021,D005,Health_Safety,Workplace accident due to insufficient safety controls,High,Possible,6,5,In Progress
+R022,D005,Operational,Equipment failure causing unplanned production stoppage,Medium,Almost Certain,8,5,Closed
+R023,D005,Quality,Defective products shipped due to inadequate QA testing,Medium,Unlikely,2,1,In Progress
+R024,D006,Reputational,Misleading marketing claims triggering regulatory investigation,Medium,Possible,4,1,Closed
+R025,D006,Data Privacy,Unauthorised use of customer data for targeted marketing,Critical,Almost Certain,16,11,In Progress
+R026,D006,Compliance,Failure to obtain valid consent for email marketing campaigns,Low,Almost Certain,4,3,Open
+R027,D007,Third-Party,Single-source supplier failure disrupting production supply,Medium,Almost Certain,8,5,Open
+R028,D007,Operational,Customs compliance failure causing import and export delays,Low,Likely,3,1,Open
+R029,D007,ESG,Supplier labour rights violations damaging brand reputation,Critical,Likely,12,9,In Progress
+R030,D007,Operational,Inventory management system inaccuracies causing stock-outs,Low,Likely,3,1,Closed
+R031,D008,Operational,Audit scope limitations preventing adequate coverage of high-risk areas,Medium,Unlikely,2,1,Mitigated
+R032,D008,Governance,Management override of internal controls identified during audit,High,Possible,6,2,Closed
+R033,D008,Quality,Audit findings not tracked to resolution leading to repeat issues,High,Unlikely,3,1,In Progress
+R034,D009,Governance,Enterprise risk framework not aligned with strategic objectives,Medium,Possible,4,2,Mitigated
+R035,D009,Operational,Incomplete risk register missing emerging technology risks,Medium,Almost Certain,8,3,In Progress
+R036,D009,Reporting,Inaccurate risk scoring leading to misallocation of risk resources,Critical,Almost Certain,16,11,Closed
+R037,D010,Third-Party,Vendor due diligence gaps enabling engagement of sanctioned entities,Medium,Possible,4,1,Open
+R038,D010,Fraud,Procurement fraud via fictitious vendor creation,Critical,Likely,12,11,Accepted
+R039,D010,Compliance,Contract terms non-compliant with corporate procurement policy,Low,Unlikely,1,1,Accepted
+R040,D011,Reputational,Failure to resolve customer complaints within SLA timeframes,Medium,Possible,4,2,In Progress
+R041,D011,Data Privacy,Agents accessing customer accounts without authorisation,Critical,Unlikely,4,2,Closed
+R042,D011,Operational,High call abandonment rate due to insufficient staffing levels,Critical,Unlikely,4,1,Mitigated
+R043,D012,Strategic,Flawed strategic assumptions leading to poor M&A decisions,Low,Almost Certain,4,2,Accepted
+R044,D012,Governance,Lack of board-level oversight of strategic initiative execution,Critical,Almost Certain,16,11,Open
+R045,D012,Reputational,Negative media coverage of corporate strategy announcements,Critical,Likely,12,11,Mitigated
